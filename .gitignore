@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+lib/__pycache__
 lib64/
 parts/
 sdist/
@@ -137,3 +137,6 @@ tor.pid
 
 # MacOS
 .DS_Store
+
+# Credentials
+credentials/
